@@ -88,7 +88,7 @@ The system uses a **Random Forest Classifier** optimized for fraud detection:
 
 Navigate to **System Settings** in the sidebar to switch between:
 -   🌌 **Neon Cyberpunk** (High contrast, futuristic)
--   b  **Professional Blue** (Corporate, clean)
+-     **Professional Blue** (Corporate, clean)
 -   ☀️ **Light Mode** (Bright, accessible)
 -   🌑 **Dark Mode** (OLED friendly)
 
